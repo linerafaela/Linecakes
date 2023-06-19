@@ -1,7 +1,15 @@
+header {
+    background-color: lightpink;
+}
+
 body{
     background-color: thistle;
 }
 
 h1{
     font-family: 'Dancing Script', cursive;
+}
+
+.bolo {
+width: 40%;
 }
