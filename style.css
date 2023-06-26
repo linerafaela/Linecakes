@@ -14,6 +14,11 @@ h1{
 width: 40%;
 }
 
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+}
+
 nav li {
     display: inline;
     margin: 0 0 0 112px;
