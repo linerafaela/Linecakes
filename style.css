@@ -13,3 +13,13 @@ h1{
 .bolo {
 width: 40%;
 }
+
+nav li {
+    display: inline;
+    margin: 0 0 0 112px;
+    color: mediumorchid;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
+
