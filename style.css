@@ -16,7 +16,9 @@ width: 40%;
 
 .caixa {
     width: 940px;
-    margin: 0 auto;
+    margin: 0 auto; 
+    display:inline;
+    text-align: center;
 }
 
 nav li {
